@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488597211747",
+    "firebase_url": "https://splittask-a1785.firebaseio.com",
+    "project_id": "splittask-a1785",
+    "storage_bucket": "splittask-a1785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488597211747:android:2024283ee6fd698c",
+        "android_client_info": {
+          "package_name": "mypackage.example.splittask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488597211747-djrrblh3qua7mm6maqhilct36gebnbgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mypackage.example.splittask",
+            "certificate_hash": "10138b6055bff26a40217eb0d502790ffc3babf6"
+          }
+        },
+        {
+          "client_id": "488597211747-6uoreuu8gdshe5ocal783rbcive7mpgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHb_8sY6c7m5iPV6Z2zvqzBOZ8pglpf38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488597211747-6uoreuu8gdshe5ocal783rbcive7mpgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
